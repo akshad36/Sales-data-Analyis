@@ -1,4 +1,4 @@
-# Sales-data-Analyis
+# Sales-data-Analysis
 Prepared a interactive dashboard for provided problem statement
 
 The primary objective of the project, which consists of sales order records from an organization, is to 
@@ -29,3 +29,14 @@ discontinuation.
 6. Regional and Market Analysis:
 o Examine regional sales and profit data to identify market opportunities and challenges.
 o Use geographic data to support regional marketing and sales strategies
+
+Approach
+Data Collection & Cleaning:
+•	Extracted from a comprehensive automobile sales database.
+•	Handled missing values, removed duplicates, and standardized formats.
+
+Data Modelling
+Performed some dax function which were required
+
+Design and Visualization
+Visualize the trend using various charts and graph
